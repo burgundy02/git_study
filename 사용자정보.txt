@@ -1,2 +1,3 @@
 username : burgundy02
 email : jihyuntina@kakao.com
+name : jihyeon
